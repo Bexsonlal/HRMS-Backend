@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fd12295-f480-4b2f-86ed-29aa48527c22": {
+      "ProjectGuid": "8fd12295-f480-4b2f-86ed-29aa48527c22",
+      "DisplayName": "ASPNetCoreWebAPiDemo",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
