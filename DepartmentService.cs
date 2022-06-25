@@ -80,6 +80,7 @@ namespace ASPNetCoreWebAPiDemo
                 {
                     _temp.DepartmentName = DepartmentsModel.DepartmentName;
                     _temp.DepartmentId = DepartmentsModel.DepartmentId;
+                    _temp.DepartmentCode = DepartmentsModel.DepartmentCode;
                     _context.Update<Departments>(_temp);
                     model.Messsage = "Department Updated Successfully";
                 }

@@ -25,9 +25,9 @@ namespace ASPNetCoreWebAPiDemo.Controllers
                 if (departments == null) return NotFound();
                 return Ok(departments);
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                return BadRequest();
+                return BadRequest(e.Message);
             }
         }
 

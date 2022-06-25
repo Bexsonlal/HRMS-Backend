@@ -18,5 +18,11 @@ namespace ASPNetCoreWebAPiDemo.DepartmentModels
             get;
             set;
         }
+
+        public string DepartmentCode
+        {
+            get;
+            set;
+        }
     }
 }
